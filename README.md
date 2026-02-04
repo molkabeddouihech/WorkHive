@@ -43,14 +43,13 @@ Avant de commencer, assure-toi d’avoir installé :
 
 ### 2️⃣ Cloner le projet
 
-```
 git clone https://github.com/molkabeddouihech/WorkHive.git
 cd WorkHive
----
+
 ### 3️⃣ Installer les dépendances
 npm install
 npm start
----
+
 ##📖 Utilisation
 
 -Créer un compte sécurisé
@@ -60,7 +59,7 @@ npm start
 -Interagir via posts et commentaires
 -Participer aux événements
 -Gérer les congés, salaires et primes
----
+
 
 ## 💡 Fonctionnalités
 ✅ Connexion sécurisée 🔐
