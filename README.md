@@ -43,7 +43,7 @@ Avant de commencer, assure-toi d’avoir installé :
 
 ### 2️⃣ Cloner le projet
 
-```bash
+```
 git clone https://github.com/molkabeddouihech/WorkHive.git
 cd WorkHive
 ---
